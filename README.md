@@ -1,0 +1,1 @@
+# Blinkist-Interview-Assignment
