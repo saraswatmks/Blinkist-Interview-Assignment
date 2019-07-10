@@ -4,9 +4,10 @@
 * The dataset given was real blinkist user data that helped in understanding the true aspect/challenges/complexity of their business. 
 * Hence, the dataset cannot be shared due to privacy issues.
 
-## Tools used
+## Tools and libraries used
 
-Mainly python libraries such as:
+* Conda env
+* Python 3.7
 * Pandas
 * Seaborn
 * Matplotlib
